@@ -1,1 +1,21 @@
-theme: minima
+title: Le mie ricette
+description: Ricettario personale di Federico
+theme: just-the-docs
+
+url: https://federico-fe.github.io/le-mie-ricette
+
+# Imposta la root per la documentazione
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      permalink: "/:path/"
+      nav_order: 1
+
+# Sidebar
+just_the_docs:
+  logo: false
+  search_enabled: true
+  show_last_modified_time: false
