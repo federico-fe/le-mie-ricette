@@ -1,0 +1,22 @@
+/* Cambia font e colori principali */
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fffaf5;
+}
+
+h1, h2, h3 {
+  color: #b34700; /* Arancione caldo */
+}
+
+a {
+  color: #cc5500; /* Link */
+}
+
+.nav-list .nav-list-item a {
+  color: #7a2e00;
+}
+
+.site-title {
+  font-family: 'Georgia', serif;
+  color: #b34700;
+}

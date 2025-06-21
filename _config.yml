@@ -1,5 +1,5 @@
-title: Le mie ricette
-description: Ricettario personale di Federico
+title: Il ricettario di Federico
+description: Una collezione di ricette
 theme: just-the-docs
 
 url: https://federico-fe.github.io/le-mie-ricette
@@ -19,3 +19,5 @@ just_the_docs:
   logo: false
   search_enabled: true
   show_last_modified_time: false
+  custom_css:
+    - assets/css/custom.css
