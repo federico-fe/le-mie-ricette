@@ -1,22 +1,41 @@
-/* Cambia font e colori principali */
 body {
   font-family: 'Georgia', serif;
-  background-color: #fffaf5;
+  background-color: #fffaf0; /* crema */
+  color: #4e2a1e;            /* caffè */
 }
 
 h1, h2, h3 {
-  color: #b34700; /* Arancione caldo */
+  color: #d2691e; /* ocra */
 }
 
 a {
-  color: #cc5500; /* Link */
+  color: #b34700; /* mattone */
+}
+
+a:hover {
+  background-color: #ffe4b5; /* burro */
+  text-decoration: underline;
 }
 
 .nav-list .nav-list-item a {
-  color: #7a2e00;
+  color: #4e2a1e;
 }
 
 .site-title {
+  color: #d2691e;
   font-family: 'Georgia', serif;
-  color: #b34700;
+}
+
+.main-content table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.main-content table td, .main-content table th {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.main-content table tr:nth-child(even) {
+  background-color: #ffe4b5;
 }

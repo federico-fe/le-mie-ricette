@@ -21,3 +21,4 @@ just_the_docs:
   show_last_modified_time: false
   custom_css:
     - assets/css/custom.css
+color_scheme: light
