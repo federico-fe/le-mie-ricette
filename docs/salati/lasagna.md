@@ -1,1 +1,7 @@
-# Lasagna\n\n## Ingredienti\n- Sfoglia\n- Ragù\n- Besciamella\n\n## Procedimento\n1. Prepara il ragù...
+---
+Title: Lasagne
+nav_order: 1
+parent: Salati
+---
+
+# Lasagne

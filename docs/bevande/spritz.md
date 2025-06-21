@@ -1,1 +1,7 @@
-# Spritz\n\n## Ingredienti\n- Prosecco\n- Aperol\n- Soda\n\n## Procedimento\n1. Versa in un bicchiere...
+---
+title: Spritz
+nav_order: 1
+parent: Bevande
+---
+
+# Spritz

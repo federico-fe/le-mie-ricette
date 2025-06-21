@@ -1,1 +1,7 @@
-# Patate al forno\n\n## Ingredienti\n- Patate\n- Rosmarino\n- Olio d'oliva\n\n## Procedimento\n1. Taglia le patate...
+---
+title: Patate al forno
+nav_order: 1
+parent: Contorni
+---
+
+# Patate al forno
